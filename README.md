@@ -30,6 +30,6 @@ I identify the mate in 1s by checking to see if a given position can transition 
 # Examples of Deepest Cases
 Spoiler, there are 3056 positions at the deepest level of 32 half moves (16 full moves), all of which are obviously black to move (assuming black is defending). None are particularly special (that I've found), but here are just a few examples (FENs):
 
-8/1R6/4k3/8/8/8/8/K7 b - - 0 1
-8/8/5R2/8/1k6/8/K7/8 b - - 0 1
-7K/8/8/8/8/2R2k2/8/8 b - - 0 1
+8/1R6/4k3/8/8/8/8/K7 b - - 0 1  
+8/8/5R2/8/1k6/8/K7/8 b - - 0 1  
+7K/8/8/8/8/2R2k2/8/8 b - - 0 1  
